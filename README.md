@@ -1,6 +1,6 @@
 # cld2
---
-    import "cld2"
+
+Deprecated in favor of [https://github.com/jmhodges/gocld3](https://github.com/jmhodges/gocld3)
 
 Package cld2 implements language detection using the Compact Language Detector.
 
